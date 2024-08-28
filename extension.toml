@@ -1,0 +1,11 @@
+id = "jinja2"
+name = "Jinja2 Template Support"
+version = "0.0.1"
+schema_version = 1
+description = "Highlighting and indentation for Jinja2 templates"
+authors = ["Archer Hume <archer@hume.email>"]
+repository = "https://github.com/archerhume/zed-jinja2-support"
+
+[grammars.jinja2]
+repository = "https://github.com/ArcherHume/tree-sitter-jinja2"
+commit = "f5c7baa443b9d20746d2335230967234e01c934c"
