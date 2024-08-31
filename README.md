@@ -9,7 +9,7 @@ This extension adds syntax highlighting support for Jinja2 templates in the Zed.
 
 - Syntax highlighting for Jinja2 template syntax
 - Support for Jinja2 expressions, statements, and comments
-- Compatibility with .jinja, .jinja2, and .j2 file extensions
+- Compatibility with .jinja, .jinja2 file extensions
 - Highlighting in HTML files containing Jinja2 syntax
 
 ## Installation
@@ -37,9 +37,9 @@ This extension is useful for projects using Jinja2 templates, including but not 
 
 For bug reports or feature requests, please open an issue on the GitHub repository.
 
-## License
+## Roadmap
 
-This extension is released under the MIT License.
+- Currently we are planning on adding a Jinja2 language server.
 
 ## Sponsor
 
