@@ -1,6 +1,6 @@
 id = "jinja2"
 name = "Jinja2 Template Support"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 description = "Highlighting and indentation for Jinja2 templates!"
 authors = ["Archer Hume <archer@hume.email>"]
