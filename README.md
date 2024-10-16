@@ -40,10 +40,3 @@ For bug reports or feature requests, please open an issue on the GitHub reposito
 ## Roadmap
 
 - Currently we are planning on adding a Jinja2 language server.
-
-## Sponsor
-
-<img alt="Proudly sponsored by Hacker Bargains" width="350" src="https://hacker.bargains/sponsor.png"></img>
-
-[Proudly sponsored by Hacker Bargains](https://hacker.bargains/)
-
